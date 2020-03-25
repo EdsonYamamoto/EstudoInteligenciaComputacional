@@ -1,0 +1,80 @@
+ds
+None
+sair
+None
+ola mundo
+None
+ola
+None
+la 
+la 
+ola mundo
+ola mundo
+q
+q
+q
+q
+q
+q
+q
+q
+qsair
+qsair
+sair
+sair
+>>>ola mundo
+<<<ola mundo
+>>>ola mundosair
+<<<ola mundosair
+>>>sair
+<<<sair
+>>>ola mundo
+<<<ola mundo
+>>>teste
+<<<teste
+>>>ola msmsms
+<<<ola msmsms
+>>>cls
+<<<cls
+>>>sair
+<<<sair
+>>>teste
+<<<teste
+>>>mundo
+<<<mundo
+>>>sair
+<<<sair
+>>>ola mundo
+<<<ola mundo
+>>>ola
+<<<ola
+>>>a
+<<<a
+>>>e
+<<<e
+>>>
+<<<
+>>>eeeeeee
+<<<eeeeeee
+>>>eeeeeee
+<<<eeeeeee
+>>>sair
+<<<sair
+>>>te
+<<<Resposta nao tratada
+>>>da
+<<<Resposta nao tratada
+>>>ola mundo
+<<<elemento ola
+>>>q
+<<<Resposta nao tratada
+>>>d
+<<<Resposta nao tratada
+>>>sim
+<<<você está afirmando algo
+>>>nao
+<<<Resposta nao tratada
+>>>não
+<<<você está negando algo
+>>>ola 
+<<<ola 
